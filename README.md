@@ -1,47 +1,59 @@
-# BMI-calculator-web-
-##A simple BMI calculator built with HTML, CSS, and JavaScript.
 
-##Description
-This BMI calculator is a web-based application that calculates a user's Body Mass Index (BMI) based on their height and weight. The calculator provides a simple and intuitive interface for users to input their height and weight, and then displays their calculated BMI and corresponding weight status.
+# 🧮 BMI Calculator
 
-##Features
-Calculates BMI based on user input for height and weight
-Displays calculated BMI and corresponding weight status
-Simple and intuitive interface
-Customizable design
-###Technologies Used
-HTML5
-CSS3
-JavaScript
-**Installation
-To run the BMI calculator, simply clone the repository and open the index.html file in a web browser.
+A simple and responsive BMI calculator built with **HTML**, **CSS**, and **JavaScript**.
 
-##Screenshots
-BMI Calculator Screenshot
-![image](https://github.com/user-attachments/assets/b37df134-c58e-4583-bc0a-156a028826d0)
+## 📜 Description
 
+The **BMI Calculator** is a web-based application that allows users to easily calculate their Body Mass Index (BMI) by entering their height and weight. The calculator then displays the calculated BMI along with the user's weight status, such as underweight, normal, or overweight, based on the BMI value.
 
-##Usage
-Open the index.html file in a web browser.
-Enter your height and weight in the input fields.
-Click the "Calculate" button to calculate your BMI.
-View your calculated BMI and corresponding weight status.
+## 🌟 Features
+- Calculate BMI based on user input for height and weight.
+- Displays the BMI result along with a categorized weight status (Underweight, Normal, Overweight).
+- Intuitive and simple user interface.
+- Customizable design with a sleek and responsive layout.
 
-###Contributing
-Contributions are welcome! If you'd like to contribute to the BMI calculator, please fork the repository and submit a pull request with your changes.
+## 🛠 Technologies Used
+- **HTML5**: Markup structure for the BMI calculator.
+- **CSS3**: Styling and layout for a user-friendly design.
+- **JavaScript**: Logic for BMI calculations and dynamic content updates.
 
-###License
-This project is licensed under the MIT License. See the LICENSE file for details.
+## 🚀 Installation
+To run the BMI Calculator on your local machine:
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Nimraiqbal_n/bmi-calculator.git
+   ```
+2. Open the `index.html` file in your web browser.
 
-Author
-[Nimra iqbal]
+## 📖 Usage
+1. Open `index.html` in a web browser.
+2. Enter your height (in cm) and weight (in kg) in the respective input fields.
+3. Click the **Calculate** button to see your BMI and corresponding weight status.
+4. View the result displayed below the button, which will categorize your BMI.
 
-Version
-1.0.0
-
-Changelog
-Initial release
+## 📸 Screenshots
+![image](https://github.com/user-attachments/assets/890a1f89-99ae-4520-962e-8c2647c03a88)
 
 
+## 🤝 Contributing
+Contributions are welcome! If you'd like to contribute to this project, please:
+1. Fork the repository.
+2. Make your changes.
+3. Submit a pull request with a detailed explanation of the modifications.
+
+## 📜 License
+This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for more information.
+
+## 👨‍💻 Author
+**[NIMRA IQBAL]**
+
+## 🛠 Version
+**1.0.0**
+
+## 📝 Changelog
+- Initial release of the BMI Calculator.
+
+---
 
 
